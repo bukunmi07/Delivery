@@ -151,7 +151,7 @@ function App() {
           </div>
           
           <div className="b9">
-          <button className="sing" >LOG IN</button>
+          <button className="sing" >LOGs IN</button>
           </div>
           </ModalBody>
 
